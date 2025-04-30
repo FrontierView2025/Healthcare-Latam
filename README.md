@@ -19,3 +19,28 @@ The increase ....
 
 # Latest Insight Bites
 -[Tariffs and pharma industry in LATAM](https://app.frontierview.com/insightBite/3097/what-do-us-tariffs-mean-for-the-pharma-industry-in-latin-america)
+
+# Ask Our Experts
+
+Need deeper insights?  
+Our experts are here to help—just drop us a line!
+
+<div style="display: flex; align-items: center; margin-top: 1em;">
+  <img
+    src="/assets/analyst-photo.jpg"
+    alt="Antonio Martinez Castillo, Head of Americas and Global Economics at FrontierView"
+    style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 1em;"
+  >
+  <div>
+    <p style="margin: 0; font-weight: bold;">Antonio Martinez</p>
+    <p style="margin: 0 0 .5em 0; font-size: .9em; color: #555;">Head of Americas and Global Economics at FrontierView</p>
+    <p style="margin: 0;">
+      <a href="mailto:antonio.martinez@fiscalnote.com">antonio.martinez@fiscalnote.com</a>
+    </p>
+    <p style="margin-top: .5em;">
+      <a href="/contact" style="text-decoration: none; padding: .5em 1em; background: #007acc; color: white; border-radius: 4px;">
+        Ask a Question
+      </a>
+    </p>
+  </div>
+</div>
